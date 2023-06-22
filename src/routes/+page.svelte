@@ -16,7 +16,7 @@
                 <p
                     class="mt-3 max-w-md mx-auto text-lg text-gray-500 sm:text-xl md:mt-5 md:max-w-3xl"
                 >
-                    Program 3 bulan untuk menjadi <strong
+                    Program Private 3 bulan untuk menjadi <strong
                         >Programmer Jago</strong
                     > bikin aplikasi.
                 </p>
@@ -300,7 +300,7 @@
                             yang jago dengan cara termudah. Setelah mengikuti
                             ini, kamu akan bisa membuat aplikasi dalam bentuk
                             website, android, ios dan juga PC seperti windows
-                            dan mac.
+                            dan mac. Yuk buat project bareng-bareng.
                         </dd>
                     </div>
                     <div>
