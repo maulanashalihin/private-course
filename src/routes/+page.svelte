@@ -18,7 +18,7 @@
                 >
                     Program 3 bulan untuk menjadi <strong
                         >Programmer Jago</strong
-                    > untuk bisa membuat aplikasi.
+                    > bikin aplikasi.
                 </p>
                 <div class="mt-10 sm:flex sm:justify-center lg:justify-start">
                     <div class="rounded-md shadow">
