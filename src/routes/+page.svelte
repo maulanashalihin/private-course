@@ -536,7 +536,7 @@
                 >
             </h1>
             <p class="mt-8 text-xl text-gray-500 leading-8">
-                Ilmu ini bagaikan pisau bermata dua, kami harus menjamin bahwa yang diajarkan akan digunakan kebaikan dan Halal. 
+                Ilmu ini bagaikan pisau bermata dua, kami harus menjamin bahwa yang diajarkan akan digunakan untuk kebaikan dan Halal. 
             </p>
             <p class="mt-8 text-xl text-gray-500 leading-8">
                 Muslim itu terikat dengan aturan islam. Apa yang dipraktikkan tentu harus terikat dengan kaidah-kaidah islam. Ini yang harus menjadi jaminan.
